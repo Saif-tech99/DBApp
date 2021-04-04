@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBApp", "DBApp\DBApp.csproj", "{0D43FC74-BFA2-4078-85BD-1B36E8EE1013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBAppCodeLibrary", "DBAppCodeLibrary\DBAppCodeLibrary.csproj", "{1E3661C6-25C4-48A3-A810-FF50E316C076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D43FC74-BFA2-4078-85BD-1B36E8EE1013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D43FC74-BFA2-4078-85BD-1B36E8EE1013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D43FC74-BFA2-4078-85BD-1B36E8EE1013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D43FC74-BFA2-4078-85BD-1B36E8EE1013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3661C6-25C4-48A3-A810-FF50E316C076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3661C6-25C4-48A3-A810-FF50E316C076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3661C6-25C4-48A3-A810-FF50E316C076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3661C6-25C4-48A3-A810-FF50E316C076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A6BA9F-0D92-4E7E-8B70-B2B7E6D1EAB4}
+	EndGlobalSection
+EndGlobal
